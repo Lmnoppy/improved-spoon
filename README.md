@@ -8,6 +8,9 @@ afzalali15:  ( https://github.com/afzalali15/flutter_alarm_clock/)
 App design: IngeniousPixel - https://dribbble.com/shots/6738814-Clock-App-UI-screens
 
 ## Random code snippets
+
+Official Flutter cook book = https://flutter.dev/docs/cookbook
+
 ```
 Center(
         child: Image(
