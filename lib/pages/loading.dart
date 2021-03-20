@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:timein/model/user.dart';
 
 class Loading extends StatefulWidget {
   @override
@@ -8,13 +7,9 @@ class Loading extends StatefulWidget {
 
 class _LoadingState extends State<Loading> {
 
-  void getData() async {
-
-    User user = new User();
-    user.setFirstName = "firstName";
-    user.setLastName = "lastName";
-    user.setLocation = "UK";
-
+  @override
+  void initState() {
+    super.initState();
   }
 
   @override

@@ -1,11 +1,9 @@
 # Ti (Time in)
 Time app, created while doing the flutter tutorials from:
 
-Net Ninja: (https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-
-afzalali15:  ( https://github.com/afzalali15/flutter_alarm_clock/)
-
-App design: IngeniousPixel - https://dribbble.com/shots/6738814-Clock-App-UI-screens
+Net Ninja: ( https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg )
+afzalali15:  ( https://github.com/afzalali15/flutter_alarm_clock/ )
+Fireship.io:  ( https://fireship.io/lessons/build-a-binary-clock-flutter/ )
 
 ## Random code snippets
 

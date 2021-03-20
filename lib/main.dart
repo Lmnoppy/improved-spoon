@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:timein/pages/chooseLocation.dart';
-import 'package:timein/pages/home.dart';
+import 'file:///C:/Users/Tom/Documents/code/timein/timein/lib/home.dart';
 import 'package:timein/pages/loading.dart';
 
 void main() {

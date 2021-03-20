@@ -32,4 +32,9 @@ class User {
   set setFavLocations(List<String> value) {
     _favLocations = value;
   }
+
+  @override
+  String toString() {
+    return 'User{_firstName: $_firstName, _lastName: $_lastName, _email: $_email, _location: $_location, _currentLocalTimezone: $_currentLocalTimezone, _favLocations: $_favLocations, _timers: $_timers, _stopWatches: $_stopWatches}';
+  }
 }
