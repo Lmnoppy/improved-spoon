@@ -13,3 +13,11 @@ Fireship.io:  ( https://fireship.io/lessons/build-a-binary-clock-flutter/ )
 
 ## Resources
 Official Flutter cook book = https://flutter.dev/docs/cookbook
+
+### Commands 
+
+```
+flutter create --org com.lmnoppy appName
+```
+
+
