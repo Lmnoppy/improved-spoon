@@ -11,7 +11,7 @@ class Loading extends StatefulWidget {
 class LoadingState extends State<Loading> {
 
   void getTime() async {
-    Response response = await get(Uri.parse('http://worldtimeapi.org/api/timezone/Europe/London'));
+    Response response = await get(Uri.parse('https://worldtimeapi.org/api/timezone/Europe/London'));
     Map data = jsonDecode(response.body);
     print(data);
 
