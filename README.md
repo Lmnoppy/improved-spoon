@@ -1,7 +1,16 @@
 # Ti (Time in)
-Time app, created while doing the flutter tutorials from:
+Currently Learning Flutter so decided to make an app that can convert timezones, store my favorite timezones and provide other features 
+like stop watch, timer, alarm etc...
 
-## Built with
+As stated, this is a learning exercise, please don't expect this to be perfectly coded, much support or for it to even work. 
+
+## Packages 
+
+#####Timezone
+ 
+https://pub.dev/packages/timezone 
+
+## Built with help from below tutorials 
 
 The core time piece of Time in was made from the following tutorials
 
